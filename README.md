@@ -1,10 +1,14 @@
-# Flutter Netflix Movie Recommendation App
+# Flutter Authentication + Intro Screen
 
-This app recommends random movie by genre and IMDB score from Netflix.
+Flutter Auth System using the BloC and REST API.
 
-Data Provider: https://www.reelgood.com
-Youtube Tutorial Link: https://youtu.be/wi6NF0mpjhQ
+Data Provider: https://www.reqres.in
+Youtube Tutorial Link: https://youtu.be/YyuCGgAtzSw
 
-<img src="https://cdn.zochil.shop/c5cdc3e7-c352-44a0-bb17-db20f4d19ddb_t500.png" alt="nice Ui" class="img-fluid">
-<img src="https://cdn.zochil.shop/be68c261-11e4-4282-b466-b15aa3da4138_t500.png" alt="nice Ui" class="img-fluid">
+<p float="left">
+  <img src="https://cdn.zochil.shop/43990739-afbb-452f-babe-f3017378453b_t500.png" width="300">
+   <img src="https://cdn.zochil.shop/69b97660-55a2-4b0a-afe2-0409a0b46a86_t500.png" width="300">
+</p>
+
+
 
