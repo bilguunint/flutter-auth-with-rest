@@ -1,16 +1,10 @@
-# authwithrest
+# Flutter Netflix Movie Recommendation App
 
-A new Flutter project.
+This app recommends random movie by genre and IMDB score from Netflix.
 
-## Getting Started
+Data Provider: https://www.reelgood.com
+Youtube Tutorial Link: https://youtu.be/wi6NF0mpjhQ
 
-This project is a starting point for a Flutter application.
+<img src="https://cdn.zochil.shop/c5cdc3e7-c352-44a0-bb17-db20f4d19ddb_t500.png" alt="nice Ui" class="img-fluid">
+<img src="https://cdn.zochil.shop/be68c261-11e4-4282-b466-b15aa3da4138_t500.png" alt="nice Ui" class="img-fluid">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
